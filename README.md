@@ -81,19 +81,8 @@ plt.show()
 
 ## Output:
 <img width="1375" height="359" alt="image" src="https://github.com/user-attachments/assets/9291f94c-04a4-4915-b989-405672f95047" />
-Name: Branzen.B.V
-Reg No: 212225100005
+<img width="787" height="362" alt="image" src="https://github.com/user-attachments/assets/9127b021-ad2f-45fb-9f3e-976b51ef86de" />
 
-Accuracy: 0.9463414634146341
-Classification Report:
-               precision    recall  f1-score   support
-
-           0       0.94      0.98      0.96       127
-           1       0.96      0.90      0.93        78
-
-    accuracy                           0.95       205
-   macro avg       0.95      0.94      0.94       205
-weighted avg       0.95      0.95      0.95       205
 <img width="1399" height="582" alt="image" src="https://github.com/user-attachments/assets/e6fd0aec-514c-4955-9922-cb4c3f7f5ed7" />
 
 
